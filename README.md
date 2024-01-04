@@ -19,6 +19,11 @@ Steps:
 4. Currently, using a simple logic to figure out the pause challenge part 
 5. Respond with the pause challenge image 
 
+
+### Video 
+
+![Image](docs/convert.gif)
+
 To try 
 
 Run this project   
@@ -36,3 +41,4 @@ Frames Detected on this Reel
 Result Image: 
 
 ![Image](docs/0002.jpg)
+
